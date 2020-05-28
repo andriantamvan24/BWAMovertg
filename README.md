@@ -1,5 +1,5 @@
 # BWAMov
-ini adalah project class build with angga bersama robby dianputra, kelas ini membahas mengenai cara mendevelopment aplikasi android mulai dari design
+ini adalah project pemenasan tiket bioskop
 
 ## Fiture
 1. Splashscreen
